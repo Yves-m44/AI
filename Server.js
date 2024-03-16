@@ -17,6 +17,6 @@ app.get('/predict', (req, res) => {
 });
 
 // Start the server
-app.listen(port, () => {
+app.listen(process.env.PORT || port, () => {
     console.log(`Server running at http://localhost:${port}`);
 });
