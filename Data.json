@@ -1,0 +1,85 @@
+{
+    "crops": [
+      {
+        "name": "Blueberries",
+        "pH_range": "4.5 - 5.5"
+      },
+      {
+        "name": "Potatoes",
+        "pH_range": "5.0 - 6.5"
+      },
+      {
+        "name": "Raspberries",
+        "pH_range": "5.5 - 6.5"
+      },
+      {
+        "name": "Strawberries",
+        "pH_range": "5.5 - 6.5"
+      },
+      {
+        "name": "Corn (Maize)",
+        "pH_range": "6.0 - 7.0"
+      },
+      {
+        "name": "Beans",
+        "pH_range": "6.0 - 7.0"
+      },
+      {
+        "name": "Lettuce",
+        "pH_range": "6.0 - 7.0"
+      },
+      {
+        "name": "Tomatoes",
+        "pH_range": "6.0 - 7.0"
+      },
+      {
+        "name": "Carrots",
+        "pH_range": "6.0 - 7.0"
+      },
+      {
+        "name": "Peppers",
+        "pH_range": "6.0 - 7.0"
+      },
+      {
+        "name": "Cabbage",
+        "pH_range": "6.0 - 7.0"
+      },
+      {
+        "name": "Broccoli",
+        "pH_range": "6.0 - 7.0"
+      },
+      {
+        "name": "Onions",
+        "pH_range": "6.0 - 7.0"
+      },
+      {
+        "name": "Spinach",
+        "pH_range": "6.0 - 7.0"
+      },
+      {
+        "name": "Cucumbers",
+        "pH_range": "6.0 - 7.0"
+      },
+      {
+        "name": "Melons",
+        "pH_range": "6.0 - 7.0"
+      },
+      {
+        "name": "Pumpkins",
+        "pH_range": "6.0 - 7.0"
+      },
+      {
+        "name": "Squash",
+        "pH_range": "6.0 - 7.0"
+      },
+      {
+        "name": "Peas",
+        "pH_range": "6.0 - 7.0"
+      },
+      {
+        "name": "Barley",
+        "pH_range": "6.0 - 7.0"
+      }
+    ]
+  }
+  
